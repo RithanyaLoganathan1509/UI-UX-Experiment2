@@ -17,6 +17,7 @@ To design a basic mobile and web layout for an existing case study.
 4.Create and integrate a brand logo using Canva with proper styling guidelines.
 
 ## Output:
+https://github.com/RithanyaLoganathan1509/UI-UX-Experiment2/blob/main/Experiment_2%20-%20212225040341.pdf
 
 ## Result:
 The Job Application form designed successfully with simplicity, and visual appeal.
