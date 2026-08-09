@@ -1,6 +1,8 @@
 # UI-UX-Experiment2
+```
 Name : RITHANYA L
 Reg no. : 212225040341
+```
 
 ## Aim:
 To design a basic mobile and web layout for an existing case study.
